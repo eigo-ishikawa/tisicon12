@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Tisicon12Application<Tisicon12>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tisicon12.Tisicon12Application",
+            "projectName": "tisicon12",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
